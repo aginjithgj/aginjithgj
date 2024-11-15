@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aginjithgj
-- 👀 I’m interested in data analysis and python
+- 👀 I’m interested in programing data analysis 
 - 🌱 I’m currently learning All kind of things
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me aginjithgj@gmail.com
